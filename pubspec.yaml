@@ -23,6 +23,7 @@ dependencies:
   flutter_svg_provider: ^1.0.7
   matrix2d: ^1.0.4
   image: ^4.3.0
+  image_picker: ^0.8.7+3
 
 
 dev_dependencies:
